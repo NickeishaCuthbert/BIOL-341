@@ -18,7 +18,7 @@ BiocManager::install("arrays")
 
 # Load library arrays
 
-library(arrays)
+library("arrays")
 
 # Read in sample microarray data
 
