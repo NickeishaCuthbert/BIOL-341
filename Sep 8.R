@@ -51,5 +51,6 @@ Data <- read.table("example.txt", header = FALSE, sep = "", dec = ".")
 # CSV: Comma Separated Value file type, similar to xls or xlsx file types but in CSV files the formulas or multiple tabs cannot be stored
 
 # Read the CSV file in R
+
 Data2 <- read.csv("Book1.csv", header = TRUE, sep = ",", dec = ".")
 
